@@ -5,7 +5,7 @@
 
 extern const int TOP_SIZE;
 
-//--- pair_t<char*, ulong> -----------------------------------------------------
+//--- pair_t<char*, pair_val_t> ------------------------------------------------
 
 typedef long long pair_val_t;
 typedef struct {
